@@ -2,6 +2,7 @@
 - simularea unui atac de tip port scan de pe Kali Linux VM, colectarea logurilor pe host, Linux Mint, si analiza acestora in Splunk
 # In acest proiect am folosit:
 -Kali Linux VM pentru a genera atacul
+
 -Linux Mint, host
 -Splunk free
 # Pasi:
