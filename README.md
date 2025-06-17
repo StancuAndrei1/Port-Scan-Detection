@@ -4,6 +4,7 @@
 -Kali Linux VM pentru a genera atacul
 
 -Linux Mint, host
+
 -Splunk free
 # Pasi:
 1. Pe host, am activat logurile de firewall (sudo ufw enable, sudo ufw logging on)
