@@ -1,1 +1,1 @@
-Acest folder contine capturie de ecran ale proiectului.
+Acest folder contine capturile de ecran ale proiectului.
