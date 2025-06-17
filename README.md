@@ -13,8 +13,8 @@
 4. Am creat un query pentru a detecta sursele cu blocari multiple
 5. Am creat o alerta in Splunk care sa detecteze port scan uri in timp real
 # In "screenshots" sunt cateva capturi de ecran pe care le-am facut pe parcursul acestui proiect:
-1. "Kali_Comanda_Nmap.png" - comanda nmap din Kali
-2. "Splunk_UFW_block_syslog.png" - events din sourcetype="syslog"
-3. "Splunk_Query_UFW_block.png" - query
-4. "Splunk_Save_Alert.png" - salvare alerta
-5. "Splunk_Tabel_alerta_nmap.png" - alerta salvata in tabel
+![comanda nmap din Kali](screenshots/Kali_Comanda_Nmap.png)
+![events din sourcetype="syslog"](screenshots/Splunk_UFW_block_syslog.png)
+![query](screenshots/Splunk_Query_UFW_block.png)
+![salvare alerta](screenshots/Splunk_Save_Alert.png)
+![alerta salvata in tabel](screenshots/Splunk_Tabel_alerta_nmap.png)
